@@ -1,0 +1,6 @@
+El archivo ya existe.
+Conexión establecida y cursor creado con éxito.
+(1, 'SEBASTIAN', 'AB12') (2, 'JAVIER', 'CD34') (3, 'RICARDO', 'EF56')
+(1, 'Galletas', 550.0, 10.0, '') (2, 'Panques', 600.0, 20.0, '') (3, 'Pasteles', 800.0, 25.0, '')
+
+(1, '1000', 500.0, 1.0) (2, '1001', 500.0, 1.0) (3, '1011', 500.0, 1.0) (4, '1100', 500.0, 1.0)
